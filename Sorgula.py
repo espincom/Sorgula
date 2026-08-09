@@ -407,7 +407,7 @@ class BBKQueryApp(QWidget):
         self.init_ui()
 
     def init_ui(self):
-        self.setWindowTitle("BBK Altyapı Sorgulama · By Espin0)
+        self.setWindowTitle("BBK Altyapı Sorgulama · By Espin0")
         self.setMinimumSize(1020, 800)
 
         root = QVBoxLayout(self)
